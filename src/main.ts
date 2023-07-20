@@ -1,1 +1,3 @@
-console.log("Currently under developement")
+import { startServer } from './server';
+
+startServer();
