@@ -1,7 +1,7 @@
 # AppleSignAPI
 Some code to get you started on to making your own signing api
 ## What is this?
-This is like a chalenge for tho who are trying to make their own apple code sign api.
+This is like a chalenge for those who are trying to make their own apple code sign api.
 ## More info
 This repository contains all of the needed files (not all of the code) to make a signing api in typescript.
 ## Testing
